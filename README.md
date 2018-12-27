@@ -9,5 +9,6 @@ Some other references used:
 
 I am writing it as exercise to prepare for the exam and  I will maintain it till my exam date
 
-Hope it will be useful for other students too
+Hope it will be useful for other students too.
+
 Stefano
